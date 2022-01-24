@@ -1,0 +1,37 @@
+<Solution>
+  <PropertyGroup Name="proj.design" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="csb">
+          <Project Name="MainMenu.csd" Type="Layer" />
+          <Project Name="MainMenuVer1.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="Resources">
+          <Folder Name="fonts">
+            <TTF Name="Marker Felt.ttf" />
+          </Folder>
+          <Folder Name="res">
+            <File Name=".gitkeep" />
+          </Folder>
+          <Folder Name="Sounds">
+            <Audio Name="Hit.mp3" />
+            <Audio Name="Point.mp3" />
+            <Audio Name="Wing.mp3" />
+          </Folder>
+          <Image Name="background.png" />
+          <Image Name="bird.png" />
+          <Image Name="butonPipe.png" />
+          <Image Name="gameover.png" />
+          <Image Name="Menu Button Clicked.png" />
+          <Image Name="Menu Button.png" />
+          <Image Name="Play Button Clicked.png" />
+          <Image Name="Play Button.png" />
+          <Image Name="Retry Button Clicked.png" />
+          <Image Name="Retry Button.png" />
+          <Image Name="topPipe.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
